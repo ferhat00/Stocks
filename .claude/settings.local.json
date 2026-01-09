@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \" import json with open\\(''AIRO_Competitor_Analysis v3 comprehensive - sentiment.ipynb'', ''r''\\) as f: nb = json.load\\(f\\) # Extract markdown cells with section headers for i, cell in enumerate\\(nb[''cells'']\\): if cell.get\\(''cell_type''\\) == ''markdown'': source = ''''.join\\(cell.get\\(''source'', []\\)\\) if ''##'' in source or ''objective'' in source.lower\\(\\): print\\(f''Cell {i}: {source[:200]}''\\) print\\(''---''\\) \")",
+      "Bash(python3:*)",
+      "Bash(python -c:*)",
+      "Bash(python fix_notebook.py:*)",
+      "Bash(python check_notebook.py:*)",
+      "Bash(..venvScriptspython.exe -c \"import nltk; nltk.download\\(''punkt_tab''\\); print\\(''punkt_tab downloaded successfully''\\)\")",
+      "Bash(\".venv\\\\Scripts\\\\python.exe\" -c \"import nltk; nltk.download\\(''punkt_tab''\\); print\\(''punkt_tab downloaded successfully''\\)\")"
+    ]
+  }
+}

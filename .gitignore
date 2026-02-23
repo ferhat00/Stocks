@@ -182,3 +182,4 @@ cython_debug/
 *.txt
 *.csv
 *.csv
+output/Combined/all_tickers.csv

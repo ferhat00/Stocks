@@ -1,0 +1,222 @@
+{
+  "ALB_Silver_Peak": {
+    "company": "ALB",
+    "ticker": "ALB",
+    "project_name": "Silver Peak",
+    "location": "Nevada, USA",
+    "latitude": 37.9966,
+    "longitude": -117.9504,
+    "production_capacity_kt": 5.0,
+    "resource_type": "Brine",
+    "status": "Producing"
+  },
+  "SQM_Atacama": {
+    "company": "SQM",
+    "ticker": "SQM",
+    "project_name": "Atacama Salar",
+    "location": "Antofagasta Region, Chile",
+    "latitude": -23.5954,
+    "longitude": -68.2623,
+    "production_capacity_kt": 180.0,
+    "resource_type": "Brine",
+    "status": "Producing"
+  },
+  "PLS_Pilgangoora": {
+    "company": "Pilbara Minerals",
+    "ticker": "PLS.AX",
+    "project_name": "Pilgangoora",
+    "location": "Pilbara, Western Australia",
+    "latitude": -21.2531,
+    "longitude": 118.6833,
+    "production_capacity_kt": 560.0,
+    "resource_type": "Hard Rock Spodumene",
+    "status": "Producing"
+  },
+  "IGO_Greenbushes": {
+    "company": "IGO/Tianqi/ALB",
+    "ticker": "IGO.AX",
+    "project_name": "Greenbushes",
+    "location": "Western Australia",
+    "latitude": -33.8548,
+    "longitude": 116.0598,
+    "production_capacity_kt": 1300.0,
+    "resource_type": "Hard Rock Spodumene",
+    "status": "Producing"
+  },
+  "MIN_Mt_Marion": {
+    "company": "Mineral Resources",
+    "ticker": "MIN.AX",
+    "project_name": "Mt Marion",
+    "location": "Western Australia",
+    "latitude": -30.9742,
+    "longitude": 119.6542,
+    "production_capacity_kt": 450.0,
+    "resource_type": "Hard Rock Spodumene",
+    "status": "Producing"
+  },
+  "MIN_Wodgina": {
+    "company": "Mineral Resources",
+    "ticker": "MIN.AX",
+    "project_name": "Wodgina",
+    "location": "Pilbara, Western Australia",
+    "latitude": -21.1869,
+    "longitude": 118.7119,
+    "production_capacity_kt": 750.0,
+    "resource_type": "Hard Rock Spodumene",
+    "status": "Producing"
+  },
+  "LTHM_Hombre_Muerto": {
+    "company": "Livent",
+    "ticker": "LTHM",
+    "project_name": "Hombre Muerto",
+    "location": "Catamarca, Argentina",
+    "latitude": -25.3867,
+    "longitude": -66.9281,
+    "production_capacity_kt": 20.0,
+    "resource_type": "Brine",
+    "status": "Producing"
+  },
+  "ALB_La_Negra": {
+    "company": "Albemarle",
+    "ticker": "ALB",
+    "project_name": "La Negra (Atacama)",
+    "location": "Antofagasta, Chile",
+    "latitude": -23.6509,
+    "longitude": -70.3975,
+    "production_capacity_kt": 85.0,
+    "resource_type": "Brine",
+    "status": "Producing"
+  },
+  "AKE_Mt_Cattlin": {
+    "company": "Allkem",
+    "ticker": "AKE.AX",
+    "project_name": "Mt Cattlin",
+    "location": "Western Australia",
+    "latitude": -33.9167,
+    "longitude": 121.8833,
+    "production_capacity_kt": 200.0,
+    "resource_type": "Hard Rock Spodumene",
+    "status": "Producing"
+  },
+  "AKE_Olaroz": {
+    "company": "Allkem",
+    "ticker": "AKE.AX",
+    "project_name": "Olaroz",
+    "location": "Jujuy, Argentina",
+    "latitude": -23.6667,
+    "longitude": -66.5500,
+    "production_capacity_kt": 42.5,
+    "resource_type": "Brine",
+    "status": "Producing"
+  },
+  "LAC_Thacker_Pass": {
+    "company": "Lithium Americas",
+    "ticker": "LAC",
+    "project_name": "Thacker Pass",
+    "location": "Nevada, USA",
+    "latitude": 41.4592,
+    "longitude": -117.7025,
+    "production_capacity_kt": 80.0,
+    "resource_type": "Claystone",
+    "status": "Under Development"
+  },
+  "LTBR_Cauchari_Olaroz": {
+    "company": "Lithium Americas Argentina",
+    "ticker": "LTBR",
+    "project_name": "Cauchari-Olaroz",
+    "location": "Jujuy, Argentina",
+    "latitude": -23.8333,
+    "longitude": -66.7000,
+    "production_capacity_kt": 40.0,
+    "resource_type": "Brine",
+    "status": "Under Development"
+  },
+  "LTR_Kathleen_Valley": {
+    "company": "Liontown Resources",
+    "ticker": "LTR.AX",
+    "project_name": "Kathleen Valley",
+    "location": "Western Australia",
+    "latitude": -27.6500,
+    "longitude": 120.5833,
+    "production_capacity_kt": 500.0,
+    "resource_type": "Hard Rock Spodumene",
+    "status": "Under Development"
+  },
+  "PLL_Carolina": {
+    "company": "Piedmont Lithium",
+    "ticker": "PLL",
+    "project_name": "Carolina Lithium",
+    "location": "North Carolina, USA",
+    "latitude": 35.2827,
+    "longitude": -81.0348,
+    "production_capacity_kt": 30.0,
+    "resource_type": "Hard Rock Spodumene",
+    "status": "Under Development"
+  },
+  "SGML_Grota_do_Cirilo": {
+    "company": "Sigma Lithium",
+    "ticker": "SGML",
+    "project_name": "Grota do Cirilo",
+    "location": "Minas Gerais, Brazil",
+    "latitude": -17.1131,
+    "longitude": -42.1719,
+    "production_capacity_kt": 270.0,
+    "resource_type": "Hard Rock Spodumene",
+    "status": "Producing"
+  },
+  "CXO_Finniss": {
+    "company": "Core Lithium",
+    "ticker": "CXO.AX",
+    "project_name": "Finniss",
+    "location": "Northern Territory, Australia",
+    "latitude": -12.9831,
+    "longitude": 131.0822,
+    "production_capacity_kt": 175.0,
+    "resource_type": "Hard Rock Spodumene",
+    "status": "Producing"
+  },
+  "IONR_Rhyolite_Ridge": {
+    "company": "ioneer",
+    "ticker": "IONR",
+    "project_name": "Rhyolite Ridge",
+    "location": "Nevada, USA",
+    "latitude": 37.8167,
+    "longitude": -117.5167,
+    "production_capacity_kt": 26.0,
+    "resource_type": "Claystone (Lithium-Boron)",
+    "status": "Under Development"
+  },
+  "VUL_Upper_Rhine": {
+    "company": "Vulcan Energy",
+    "ticker": "VUL.AX",
+    "project_name": "Upper Rhine Valley",
+    "location": "Rhine Valley, Germany",
+    "latitude": 48.9000,
+    "longitude": 8.4000,
+    "production_capacity_kt": 24.0,
+    "resource_type": "Geothermal Brine",
+    "status": "Under Development"
+  },
+  "Ganfeng_Multiple": {
+    "company": "Ganfeng Lithium",
+    "ticker": "002460.SZ",
+    "project_name": "Multiple Operations",
+    "location": "Jiangxi Province, China",
+    "latitude": 28.2167,
+    "longitude": 115.8167,
+    "production_capacity_kt": 150.0,
+    "resource_type": "Multiple",
+    "status": "Producing"
+  },
+  "RIO_Rincon": {
+    "company": "Rio Tinto",
+    "ticker": "RIO",
+    "project_name": "Rincon",
+    "location": "Salta, Argentina",
+    "latitude": -24.3667,
+    "longitude": -66.8000,
+    "production_capacity_kt": 60.0,
+    "resource_type": "Brine",
+    "status": "Under Development"
+  }
+}

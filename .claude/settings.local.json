@@ -7,7 +7,11 @@
       "Bash(python fix_notebook.py:*)",
       "Bash(python check_notebook.py:*)",
       "Bash(..venvScriptspython.exe -c \"import nltk; nltk.download\\(''punkt_tab''\\); print\\(''punkt_tab downloaded successfully''\\)\")",
-      "Bash(\".venv\\\\Scripts\\\\python.exe\" -c \"import nltk; nltk.download\\(''punkt_tab''\\); print\\(''punkt_tab downloaded successfully''\\)\")"
+      "Bash(\".venv\\\\Scripts\\\\python.exe\" -c \"import nltk; nltk.download\\(''punkt_tab''\\); print\\(''punkt_tab downloaded successfully''\\)\")",
+      "Bash(dir:*)",
+      "Bash(ls:*)",
+      "Bash(python add_notebook_sections.py:*)",
+      "Bash(python:*)"
     ]
   }
 }

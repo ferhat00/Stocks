@@ -183,3 +183,4 @@ cython_debug/
 *.csv
 *.csv
 output/Combined/all_tickers.csv
+nul
